@@ -33,6 +33,7 @@ public class UserService {
     }
 
     public void deleteById(Long id) {
-
+        Optional<UserEntity> existingUser = userRepository.findById(id);
+        userRepository.deleteById(id);
     }
 }
