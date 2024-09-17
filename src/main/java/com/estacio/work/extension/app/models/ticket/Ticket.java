@@ -1,4 +1,4 @@
-package com.estacio.work.extension.app.models;
+package com.estacio.work.extension.app.models.ticket;
 
 import lombok.AllArgsConstructor;
 

@@ -1,4 +1,4 @@
-package com.estacio.work.extension.app.models;
+package com.estacio.work.extension.app.models.category;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
