@@ -13,6 +13,7 @@ Para conseguir rodar o projeto iremos precisar de uma IDE, recomendo usar o Inte
 Download: https://www.jetbrains.com/idea/download/
 
 Após instalar a IDE em seu devido sistema operacional (Windows, Mac ou Linux), clone o projeto conforme a imagem:
+
 ![image](src/main/resources/img.png)
 
 Depois desse processo, o IntelliJ irá baixar as dependencias do projeto automaticamente. Em seguida,rode o projeto conforme a imagem:
