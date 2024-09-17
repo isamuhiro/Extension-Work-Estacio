@@ -2,7 +2,8 @@ package com.estacio.work.extension.app.controllers;
 
 
 import com.estacio.work.extension.app.exceptions.UserExceptions;
-import com.estacio.work.extension.app.models.User;
+import com.estacio.work.extension.app.models.user.User;
+import com.estacio.work.extension.app.models.user.UserCreate;
 import com.estacio.work.extension.app.services.UserService;
 import org.springframework.web.bind.annotation.*;
 
@@ -23,8 +24,8 @@ public class UserController {
     }
 
     @PostMapping("/users")
-    User newEmployee(@RequestBody User newEmployee) {
-        return userService.save(newEmployee);
+    User newEmployee(@RequestBody UserCreate newEmployee) {
+        return userService.create(newEmployee);
     }
 
     @GetMapping("/users/{id}")
