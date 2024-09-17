@@ -1,4 +1,4 @@
-package com.estacio.work.extension.app.models;
+package com.estacio.work.extension.app.models.department;
 
 import lombok.AllArgsConstructor;
 
