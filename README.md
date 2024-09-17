@@ -9,9 +9,10 @@ Esse trabalho de extensão tem como objetivo resolver um problema de uma empresa
 
 ## Ambiente
 Para conseguir rodar o projeto iremos precisar de uma IDE, recomendo usar o IntelliJ.
+
 Download: https://www.jetbrains.com/idea/download/
 
-Após instalar a IDE em seu devido sistema operacional (Windows, Mac ou Linux), clone o projeto conforma a imagem:
+Após instalar a IDE em seu devido sistema operacional (Windows, Mac ou Linux), clone o projeto conforme a imagem:
 ![image](src/main/resources/img.png)
 
 Depois desse processo, o IntelliJ irá baixar as dependencias do projeto automaticamente. Em seguida,rode o projeto conforme a imagem:
