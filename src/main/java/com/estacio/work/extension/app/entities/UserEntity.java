@@ -3,7 +3,6 @@ package com.estacio.work.extension.app.entities;
 
 import com.estacio.work.extension.app.models.user.User;
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

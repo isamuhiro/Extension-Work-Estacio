@@ -8,7 +8,6 @@ import com.estacio.work.extension.app.repositories.UserRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.Objects;
 import java.util.Optional;
 
 @Service
